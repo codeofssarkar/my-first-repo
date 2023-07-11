@@ -1,0 +1,20 @@
+.blog{
+    background-color: blueviolet;
+    border: 10px solid maroon;
+    border-radius: 20px;
+    margin: 20px;
+    padding:20px 80px;
+}
+.author-name{
+    color:beige;
+}
+.blog-title{
+    color:yellow;
+    text-align:center;
+    font-size: 2em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.blog p{
+    text-align: justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
